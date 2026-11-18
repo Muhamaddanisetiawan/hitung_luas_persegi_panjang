@@ -6,35 +6,35 @@ PERANCANGAN ALGORITMA (PSEUDOCODE)
 
 A. IDENTITAS SISWA
 
-Nama Lengkap :
-Kelas        :
-Nomor Absen  :
-Username GitHub :
+Nama Lengkap :muhamad dani setiawan
+Kelas        :xii.10
+Nomor Absen  :19
+Username GitHub :Muhamaddanisetiawan
 
 B. JUDUL PROGRAM
 
-Tuliskan judul program yang akan dibuat.
+Program Menghitung Luas Persegi Panjang
 
 C. DESKRIPSI MASALAH
 
-Jelaskan permasalahan yang ingin diselesaikan
-menggunakan program.
+program ini dibuat untuk menghitung luar persegi panjang berdasarkan nilai panjang dan lebar yang dimasukan oleh pengguna.
 
 D. TUJUAN PROGRAM
 
-Jelaskan tujuan dan manfaat program yang dibuat.
+membantu pengguana menghitung luas persegi panjang secara cepat dan tepat.
 
 E. ANALISIS INPUT, PROSES, DAN OUTPUT
 
 1. INPUT:
-   Tuliskan data yang dimasukkan pengguna.
+ -  panjang persegi panjang. (P)
+ - lebar persegi panjang (1)
 
 2. PROSES:
-   Tuliskan langkah pengolahan atau perhitungan
-   yang dilakukan program.
+   -menghitung luas peregi panjang.
+   -rumus: luas =panjang = lebar
 
 3. OUTPUT:
-   Tuliskan hasil yang akan ditampilkan program.
+   -menampilkan hasil luas persegi panjang .
 
 F. ALGORITMA / PSEUDOCODE
 
@@ -43,12 +43,12 @@ sistematis dan logis.
 
 MULAI
 
-   1. Deklarasikan variabel yang diperlukan.
-   2. Masukkan data (INPUT).
-   3. Lakukan proses pengolahan data.
-   4. Gunakan percabangan IF-ELSE jika diperlukan.
-   5. Gunakan perulangan FOR/WHILE jika diperlukan.
-   6. Tampilkan hasil (OUTPUT).
+   1. deklarasikan variabel panjang,dan luas.
+   2. masukan nilai panjang.
+   3. masukan nilailebar.
+   4. hitung luas = panjang = lebar
+   5. tampilkan nilai luas.
+   
 
 SELESAI
 
@@ -58,19 +58,5 @@ Catatan:
 - Sesuaikan algoritma dengan permasalahan program.
 - Tidak semua program harus menggunakan
   percabangan dan perulangan.
-
-G. KETERANGAN
-
-Jelaskan alasan penggunaan algoritma tersebut
-dan bagaimana algoritma menyelesaikan masalah.
-
-==================================================
-CATATAN PENTING:
-
-1. Pseudocode harus dibuat terlebih dahulu
-   sebelum menulis kode program C++.
-2. Pseudocode harus sesuai dengan kode program
-   yang dibuat.
-3. Gunakan logika algoritma yang benar.
 
 ==================================================
